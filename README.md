@@ -8,7 +8,7 @@
 
 ### 📖 Hakkımda
 
-- 🎓 **Ankara Yıldırım Beyazıt Üniversitesi**'nde 1.sınıf öğrencisiyimm.
+- 🎓 **Ankara Yıldırım Beyazıt Üniversitesi**'nde 1.sınıf öğrencisiyim.
 - 🏆 **[Katıldığınız Yarışma Adı]** - **[Dereceniz]** kazandım.
 - 💡 Savunma sanayii ve teknoloji odaklı Ar-Ge projelerinde aktif yer alarak teorik bilgiyi pratik çözümlere dönüştürüyorum.
 - 🌍 Uluslararası hackathonlara ve eğitimlere katıldım.
