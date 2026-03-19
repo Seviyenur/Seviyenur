@@ -9,7 +9,6 @@
 ### 📖 Hakkımda
 
 - 🎓 **Ankara Yıldırım Beyazıt Üniversitesi**'nde 1.sınıf öğrencisiyim.
-- 🏆 **[Katıldığınız Yarışma Adı]** - **[Dereceniz]** kazandım.
 - 💡 Savunma sanayii ve teknoloji odaklı Ar-Ge projelerinde aktif yer alarak teorik bilgiyi pratik çözümlere dönüştürüyorum.
 - 🌍 Uluslararası hackathonlara ve eğitimlere katıldım.
 - 🔬 Şu anda STM32, Gömülü Sistemler ve mühendislik simülasyonları üzerine yoğunlaşarak karmaşık sistemlerin çalışma mantığına odaklanıyorum.
