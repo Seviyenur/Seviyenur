@@ -2,7 +2,6 @@
 <p align="center">
   <i>Karmaşık sistemleri pratik çözümlere dönüştüren mühendis adayı.</i><br>
   <i>Havacılık ve Uzay Mühendisliği Öğrencisi.</i>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwYmI5MTY4ZDRjOTcxYjUyYTUyZGVmNjFjYTZlYWYzYzFjZjkzMiZjdD1n/ul4YF5YJ25L0W3g03y/giphy.gif" width="30px"> </p>
 
 ---
 
@@ -12,10 +11,6 @@
 - 💡 Savunma sanayii ve teknoloji odaklı Ar-Ge projelerinde aktif yer alarak teorik bilgiyi pratik çözümlere dönüştürüyorum.
 - 🌍 Uluslararası hackathonlara ve eğitimlere katıldım.
 - 🔬 Şu anda STM32, Gömülü Sistemler ve mühendislik simülasyonları üzerine yoğunlaşarak karmaşık sistemlerin çalışma mantığına odaklanıyorum.
-
----
-
-### 🛠️ Tech Stack
 
 ---
 
