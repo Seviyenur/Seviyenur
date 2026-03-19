@@ -44,40 +44,11 @@
 
 ### 📫 İletişim
 
-- ✉️ **Email:** [[seviyenur3@gmail.com]]
-- 🔗 **LinkedIn:** [[Seviye Nur Gönülölmez]](https://www.linkedin.com/in/seviye-nur-g%C3%B6n%C3%BCl%C3%B6lmez/)
+- ✉️ **Email:** seviyenur3@gmail.com
+- 🔗 **LinkedIn:** [[Seviye Nur Gönülölmez](https://www.linkedin.com/in/seviye-nur-g%C3%B6n%C3%BCl%C3%B6lmez/)
 
 ---
 
-### 🏆 GitHub Kupaları
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KENDİ_GITHUB_KULLANICI_ADIN&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENDİ_GITHUB_KULLANICI_ADIN&layout=compact&theme=radical" alt="Top Langs" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=KENDİ_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 🧠 LeetCode İstatistikleri
-
-<p align="center">
-  <a href="https://leetcode.com/KENDİ_LEETCODE_KULLANICI_ADIN/">
-    <img src="https://leetcard.jacoblin.cool/KENDİ_LEETCODE_KULLANICI_ADIN?theme=radical&font=repo" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiZjhjMzhlNDkzMzIzYjkzYzVkNDg1ZTAzYmE3N2I3NjhjZDM4OSZjdD1n/I45I62039H4B088Vw0/giphy.gif" width="25px">
