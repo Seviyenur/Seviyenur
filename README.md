@@ -18,18 +18,20 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Programlama Dilleri
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-#### ⚙️ Araçlar & Teknolojiler
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)](https://www.ros.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+#### ⚙️ Araçlar & Teknolojiler
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![Ansys](https://img.shields.io/badge/Ansys-FFB400?style=flat&logo=ansys&logoColor=black)](https://www.ansys.com/)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=flat&logo=solidworks&logoColor=white)](https://www.solidworks.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)](https://www.ros.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
+---
 ---
 
 ### 🏆 Ödüller & Projeler
