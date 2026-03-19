@@ -29,9 +29,6 @@
 
 ---
 
----
----
-
 ### 🏆 Ödüller & Projeler
 
 - 🌿 **Eco-Stream (Turkcell Yarının Teknoloji Liderleri)** | *Ocak 2026 – Devam Ediyor*
@@ -45,7 +42,7 @@
 ### 📫 İletişim
 
 - ✉️ **Email:** seviyenur3@gmail.com
-- 🔗 **LinkedIn:** [[Seviye Nur Gönülölmez](https://www.linkedin.com/in/seviye-nur-g%C3%B6n%C3%BCl%C3%B6lmez/)
+- 🔗 **LinkedIn:** [Seviye Nur Gönülölmez](https://www.linkedin.com/in/seviye-nur-g%C3%B6n%C3%BCl%C3%B6lmez/)
 
 ---
 
